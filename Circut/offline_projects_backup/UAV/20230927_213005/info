@@ -1,0 +1,83 @@
+{
+  "uuid": "487321ddcffb69a472adfbe94945bdbf",
+  "path": "Offline/UAV",
+  "name": "UAV",
+  "content": "",
+  "created_at": "2023-09-26 23:52:57",
+  "updated_at": "2023-09-27 21:30:05",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "1940dd8d744f2fb539b4f5daf2028989",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "fa669abf17827f8ade299d0dc6bb5275",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "13fbe66358ac415f8f844f8a7a60755f": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Motor",
+          1,
+          "",
+          "ESC",
+          {
+            "spiceSymbolName": "Motor",
+            "Manufacturer Part": "",
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "PI",
+          1,
+          "",
+          "PI",
+          {
+            "spiceSymbolName": "PI",
+            "Manufacturer Part": "",
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "1",
+          1,
+          "HDR1X2",
+          "V1",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "spiceSymbolName": "VDC",
+            "Contributor": "EasyEDA",
+            "sim": "true",
+            "AC_Amplitude": "",
+            "AC_Phase": "",
+            "Manufacturer Part": "",
+            "puuid": "05ca98c924be4d7f9936cfbc00888d3a",
+            "uuid": "13fbe66358ac415f8f844f8a7a60755f"
+          }
+        ]
+      ],
+      "updateTime": 1695846605,
+      "createTime": 1695768778,
+      "histories": [],
+      "created_at": "2023-09-26 23:52:58",
+      "updated_at": "2023-09-27 21:30:05"
+    }
+  ],
+  "sort": [],
+  "title": "UAV",
+  "foldername": "UAV",
+  "schfilename": "UAV.json",
+  "schfilemtime": 1695846605757
+}
